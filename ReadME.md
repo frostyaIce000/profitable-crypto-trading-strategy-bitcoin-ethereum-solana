@@ -17,6 +17,9 @@ This is a momentum-based algorithmic trading system specifically designed for th
 - **Trading Fee:** 0.06% per trade (entry and exit)
 
 ### Key Indicators
+
+[![Watch the video](./shot2.png)](./shot2.png)
+
 - **Fisher Transform (FS)**
   - Identifies potential price reversals by transforming price data to Gaussian distribution
   - Parameters: Length = 10 periods
@@ -76,6 +79,9 @@ Parameters for all indicators are optimized through [Optuna](https://optuna.org/
 - Trading fees (~0.06%) included for entry and exit
 
 ## Performance Metrics (Backtest: Jan 1, 2025 – Jul 19, 2025)
+
+[![Watch the video](./shot1.png)](./shot1.png)
+
 - Initial Balance: $1,000
 - Final Balance: $15,291.61 (+1429.16%)
 - Total Trades: 293
