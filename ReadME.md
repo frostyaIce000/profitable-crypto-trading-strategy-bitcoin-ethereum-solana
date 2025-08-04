@@ -1,4 +1,5 @@
 # Momentum Trading Strategy for Crypto Perpetual Futures ( BTC, ETH, SOL ... )
+[Here is the document](./introduction_of_FVRA_strategy.pdf)
 
 ## Overview
 This is a momentum-based algorithmic trading system specifically designed for the ETH/USDT perpetual futures market on a 15-minute timeframe. The strategy combines multiple technical indicators to identify high-probability entries and exits while managing risk with dynamic stop-losses. Parameter optimization is done using Optuna to enhance performance across varying market conditions.
