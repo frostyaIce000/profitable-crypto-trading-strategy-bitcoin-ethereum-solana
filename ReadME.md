@@ -106,6 +106,6 @@ This strategy offers a systematic and automated approach to trading ETH/USDT per
 ---
 
 ## Contact
-For questions or collaboration, you can reach me via Telegram: [@benrey916](https://t.me/benrey916)
+For questions or collaboration, you can reach me via Telegram: [@johnbdfilio](https://t.me/johnbdfilio)
 
 *Developed and optimized for robust short-term momentum trading in volatile crypto markets.*
