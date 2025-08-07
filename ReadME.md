@@ -6,7 +6,7 @@ This is a momentum-based algorithmic trading system specifically designed for th
 
 ## **Video**
 
-[![Watch the video](./FVRA.png)](./FVRA.mp4)
+https://github.com/user-attachments/assets/504235f0-8820-4565-9aac-ef5143feb3e2
 
 ## Strategy Components
 
