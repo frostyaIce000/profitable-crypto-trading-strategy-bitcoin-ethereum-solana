@@ -102,10 +102,3 @@ While the win rate is near-even, larger winning trades significantly drive profi
 
 ## Conclusion
 This strategy offers a systematic and automated approach to trading ETH/USDT perpetual futures on a short timeframe. It effectively combines momentum-based indicators with rigorous risk management and leverages parameter optimization for robust results. The demonstrated backtest performance highlights significant profitability potential with clear, rule-based entry and exit signals.
-
----
-
-## Contact
-For questions or collaboration, you can reach me via Telegram: [@johnbdfilio](https://t.me/johnbdfilio)
-
-*Developed and optimized for robust short-term momentum trading in volatile crypto markets.*
