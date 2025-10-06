@@ -53,10 +53,10 @@ This is a **proven profitable strategy** based on extensive backtesting and forw
 - Interval: 1-hour candles (with periodic checks every hour, offset by 5 seconds for execution)
 
 **Indicator Parameters (Defaults):**
-- ATR Length: 14
-- FS Length: 10
-- RSI Length: 14
-- VO Lengths: (5, 10)
+- ATR Length: 14 ( https://www.tradingview.com/support/solutions/43000501823-average-true-range-atr/ )
+- FS Length: 10 ( https://www.tradingview.com/support/solutions/43000589141-fisher-transform/ )
+- RSI Length: 14 ( https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/ )
+- VO Lengths: (5, 10) ( https://www.tradingview.com/support/solutions/43000591350-volume-oscillator/ )
 
 This repository includes Python code for fetching data, calculating indicators, generating signals, and managing positions. It's designed for integration with exchanges like Binance, Bybit, or others via REST and WebSocket APIs.
 
