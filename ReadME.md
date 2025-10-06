@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/504235f0-8820-4565-9aac-ef5143feb3e2
 - **Timeframe:** 15-minute candlesticks
 - **Leverage:** 10x
 - **Position Size:** 20% of account balance per trade
-- **Trading Fee:** 0.06% per trade (entry and exit)
+- **Trading Fee:** 0.06% per trade (entry and exit) 
 
 ### Key Indicators
 
